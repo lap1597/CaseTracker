@@ -1,6 +1,8 @@
 # CaseTracker
 
 Owner: Lap Pham
+Email: lpham15@sfsu.edu
+
 
 This app created for education purpose
 It allows user to add case and check their case status on USCIS.
