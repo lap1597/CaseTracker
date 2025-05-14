@@ -31,8 +31,8 @@ struct Services: Codable{
         request.httpMethod = "POST"
 
         let bodyParams = [
-            "client_id": "liqjBdiGqxp4RmPfNfR6VQr4BzyV01QG",
-            "client_secret":"4999B0X6fRp9Wti4",
+            "client_id": "7mesg4rYc88lTjy91xdBhp4kekHYwXqt",
+            "client_secret":"uVRJcn2cTS64HUxI",
             "grant_type": "client_credentials"
         ]
 
